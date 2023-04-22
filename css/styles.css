@@ -26,6 +26,11 @@ main {
     margin: auto;
 }
 
+.nav-div_img-logo{
+    max-width: 400px;
+    width: 100%;
+}
+
 /* Recomendaciones! 
 *  - Comenzar desde lo más general y luego ir hacia lo mas específico, asignando primero
 *    "estilos generales". Una buena idea sería comenzar por el <body> ;)
